@@ -1,8 +1,10 @@
 # coronavirus_rest_api_tracker_app
 
-A new Flutter project.
+This App Tracks Coronavirus Cases, Suspected Cases, Confirmed Cases, Deaths and Recovered Cases around the world.
 
 ## Getting Started
+
+<img src="GIF/COVID_19_GIF.gif" width="200">
 
 This project is a starting point for a Flutter application.
 
